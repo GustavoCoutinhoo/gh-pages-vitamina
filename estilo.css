@@ -1,0 +1,52 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+  background-color: #21022D;
+  color: white;
+  text-align: center;
+}
+
+section {
+  margin: 24px;
+  background-color: #E2D8E7;
+}
+
+section h2 {
+  margin: 16px;
+}
+
+section h3 {
+  margin-top: 32px;
+}
+footer {
+  background-color: #21022D;
+  color: white;
+  text-align: center;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+section div h2{
+  margin-top: 64px;
+  margin-bottom: 32px;
+}
+#abacate {
+  margin-left: 64px;
+}
+#açai{
+  margin-left: 64px;
+}
+#banana {
+  margin-left: 64px;
+}
+#morango{
+  margin-left: 64px;
+}
+#pessego{
+  margin-left: 64px;
+}
+#roma{
+  margin-left: 64px;
+}
